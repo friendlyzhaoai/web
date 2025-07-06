@@ -1,0 +1,16 @@
+{
+  "name": "web_login",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start":"lite-server --open ./login-register.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

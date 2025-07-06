@@ -1,0 +1,8 @@
+{
+	  "open": true,
+	    "server": {
+		        "baseDir": "./"
+			  },
+			    "port": 1125
+}
+
